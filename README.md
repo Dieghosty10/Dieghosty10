@@ -3,4 +3,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 [![wakatime](https://wakatime.com/badge/user/8612202e-a203-481d-8ed1-084ba92ee2e6.svg)](https://wakatime.com/@<dieghosty10>)<br>
-[![Chess](https://github.com/dieghosty10/dieghosty10/blob/main/images/chess.svg)](https://chess.com/member/dieghosty10)
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=dieghosty10&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
